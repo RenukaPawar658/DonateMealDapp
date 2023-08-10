@@ -1,2 +1,15 @@
 # DonateMealDapp
-DonateMealDapp project is made with love for orphans child. We give meal to such kind of child as much as possible. You can help us in our misson by buying meal to donate them. 
+link: donatemeal.netlify.app/
+# Sample Hardhat Project
+
+This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+
+Try running some of the following tasks:
+
+```shell
+npx hardhat help
+npx hardhat test
+REPORT_GAS=true npx hardhat test
+npx hardhat node
+npx hardhat run scripts/deploy.js
+```
